@@ -1,0 +1,22 @@
+.login {
+  background-color: #28282b;
+  height: 100%;
+  width: 100%;
+  color: #8e7cff;
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.login-container > div > img {
+  width: 200px;
+}
+.login-input {
+  margin-top: 15px;
+}
+.login-button {
+  margin-top: 15px;
+}

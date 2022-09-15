@@ -1,0 +1,25 @@
+.todo {
+  padding: 8px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #8e7cff;
+  margin: 10px;
+  border-radius: 5px;
+}
+.todo-content {
+  max-width: 150px;
+  word-wrap: break-word;
+}
+.todoButtons {
+  display: flex;
+}
+.todoDeleteButton {
+  margin-right: 3px;
+  cursor: pointer;
+}
+.todoUpdateButton {
+  margin-right: 3px;
+  margin-top: 2px;
+  cursor: pointer;
+}

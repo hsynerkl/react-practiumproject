@@ -1,0 +1,22 @@
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.profile-image {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+.profile-name {
+  margin-top: 15px;
+}
+.profile-name-name {
+  color: white;
+}
+.profile-button {
+  margin-top: 15px;
+}
+.profileSettings {
+  text-align: center;
+}
